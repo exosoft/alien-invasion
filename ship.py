@@ -1,6 +1,3 @@
-# source code file interation #1
-# project interation #4
-
 import pygame
 
 class Ship():

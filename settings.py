@@ -1,6 +1,3 @@
-# source code file interation #1
-# project interation #4
-
 class Settings():
 		"""A class to store all settings for Alien Invasion."""
 		

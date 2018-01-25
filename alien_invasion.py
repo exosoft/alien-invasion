@@ -1,6 +1,3 @@
-# source code file interation #4
-# project interation #4
-
 import sys
 import pygame
 
